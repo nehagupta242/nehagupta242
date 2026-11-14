@@ -42,7 +42,7 @@
 |---|---|
 | [CareerForge-AI](https://github.com/nehagupta242/CareerForge-AI) | AI-powered career assistance project |
 | [Smart Task Manager](https://github.com/nehagupta242/smart-task-manager) | Application for managing and organizing tasks |
-| [Student Management System](https://github.com/nehagupta242/student-management-system) | Student management application |
+| [TechCompass](https://github.com/nehagupta242/TechCompass) | Enterprise Technology Management and AI-powered Decision Support |
 | [NeetCode Submissions](https://github.com/nehagupta242/neetcode-submissions) | Python solutions to coding problems |
 
 ---
