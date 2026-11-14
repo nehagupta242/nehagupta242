@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Neha Gupta</h1>
 
 <h3 align="center">
-  Computer Science Student | Aspiring Software Developer
+  Information Science Student | Aspiring Software Developer
 </h3>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 ### 💫 About Me
 
-- 🎓 Computer Science student interested in software development.
-- 💻 Exploring Python, Java, and full-stack development.
+- 🎓 Information Science student interested in software development.
+- 💻 Exploring Python and Java.
 - 🤖 Interested in Artificial Intelligence and intelligent applications.
 - 🧠 Practising Data Structures and Algorithms.
 - 🚀 Always curious to learn, build, and improve.
@@ -66,6 +66,7 @@
 - Backend Development
 - Artificial Intelligence
 - Building scalable software applications
+- FullStack development
 
 ---
 
