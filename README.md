@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Neha Gupta</h1>
+<h1 align="center">Hi, I'm Neha Gupta</h1>
 
 <h3 align="center">
   Information Science Student | Aspiring Software Developer
@@ -18,13 +18,13 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
-- 🎓 Information Science student interested in software development.
-- 💻 Exploring Python and Java.
-- 🤖 Interested in Artificial Intelligence and intelligent applications.
-- 🧠 Practising Data Structures and Algorithms.
-- 🚀 Always curious to learn, build, and improve.
+-  Information Science student interested in software development.
+-  Exploring Python and Java.
+-  Interested in Artificial Intelligence and intelligent applications.
+-  Practising Data Structures and Algorithms.
+-  Always curious to learn, build, and improve.
 
 ---
 
