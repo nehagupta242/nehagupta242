@@ -36,7 +36,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nehagupta242&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -60,7 +60,7 @@
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 - Data Structures & Algorithms
 - Backend Development
@@ -70,7 +70,7 @@
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://github.com/nehagupta242">
